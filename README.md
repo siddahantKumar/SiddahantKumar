@@ -11,28 +11,32 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌟 Full-Stack .NET Developer with **3+ years of experience**
-- 🔭 Currently exploring **Azure, Generative AI, and ERP SaaS solutions**
-- 💳 Experienced in **payment gateways, microservices, cloud automation, and CI/CD**
-- 🎓 MSc in Advanced Computer Science (Distinction) from **Bangor University**
-- 📫 Reach me at **sidhantlohana@outlook.com**
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/siddahantkumar)
+### 👨‍💻 About Me  
+
+🌟 Full-Stack .NET Developer with 3+ years of experience  
+☁️ Skilled in Microsoft Azure, Azure DevOps, and cloud-native architectures  
+💳 Experienced in payment gateways, microservices, cloud automation, and CI/CD  
+🤖 Enthusiastic about AI, Generative AI, and intelligent automation  
+🎓 MSc in Advanced Computer Science (Distinction) from Bangor University  
+📫 Reach me at sidhantlohana@outlook.com  
+💼 Connect with me on [LinkedIn](https://linkedin.com/in/siddahantkumar)  
+
 
 ---
 
-### ⚡ Featured Projects
+### ⚡ Featured Projects  
+
 - **AI Summarization Tool (MSc Dissertation)**  
-  NLP pipeline for political tweet summarization to improve social media insights.  
-  *Tech: Python, Transformers, NLP, Data Analysis*
+  Developed using **Python and NLP techniques** for **sentiment analysis and summarization of political tweets**, providing actionable insights from social media data.  
+  *Tech: Python, NLP, Transformers, Data Analysis*  
 
 - **De Rouze ERP SaaS**  
-  Multi-tenant ERP system with Azure Functions and Power BI integration for auto dealers in the US.  
-  *Tech: .NET Core, Azure Functions, Angular, Power BI*
+  Multi-tenant ERP system built with **.NET Core microservices and AngularJS**, deployed on **Azure Cloud through automated CI/CD pipelines**, designed for auto dealers in the US.  
+  *Tech: .NET Core, Microservices, AngularJS, Azure, CI/CD*  
 
-- **Payment Gateway Security Module**  
-  Implemented **3-D Secure 2.0, Apple Pay, Samsung Pay, VISA, MasterCard, AMEX** to boost transaction security and reduce fraud.  
-  *Tech: C#, .NET Core, Microservices, Oracle, ISO-8583*
+- **Etisalat Payment Gateway Security Module**  
+  Implemented **3-D Secure 2.0, Apple Pay, Samsung Pay, VISA, MasterCard, and AMEX** integration to enhance payment security and reduce fraud for Gulf-based clients.  
+  *Tech: C#, .NET Core, Microservices, Oracle, ISO-8583*  
 
 ---
 
