@@ -6,7 +6,7 @@
 <p align="center">
 🚀 Building secure, scalable, and cloud-ready solutions in FinTech, ERP, and LegalTech  
 💡 Passionate about .NET, Azure, Payments, and Automation  
-📍 Based in England, UK | Right to work in the UK
+📍 Based in England, UK
 </p>
 
 ---
