@@ -1,29 +1,72 @@
-![GITHUB COVER BEST](https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png)
+![GitHub Banner](https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png)
 
 <h1 align="center">Hi 👋, I'm Siddahant Kumar</h1>
-<h3 align="center">working as a Backend Engineer</h3>
-<img align="right" alt="coding" width ="400" src="https://images.alphacoders.com/665/665091.jpg">
+<h3 align="center">Full-Stack .NET Developer | Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iddahantkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iddahantkumar" /> </p>
-
-- 🔭 I’m currently working on [SaaS based ERP](https://github.com/OneTechnologyServices/Inception.DDD-v2)
-
-- 🌱 I’m currently learning **DevOps and engineering around it.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/siddahantKumar](https://github.com/siddahantKumar)
-
-- 📫 How to reach me **sidhantlohana@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/siddahant kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddahant kumar" height="30" width="40" /></a>
+<p align="center">
+🚀 Building secure, scalable, and cloud-ready solutions in FinTech, ERP, and LegalTech  
+💡 Passionate about .NET, Azure, Payments, and Automation  
+📍 Based in England, UK | Right to work in the UK
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddahantkumar&show_icons=true&locale=en&layout=compact" alt="siddahantkumar" /></p>
+### 👨‍💻 About Me
+- 🌟 Full-Stack .NET Developer with **3+ years of experience**
+- 🔭 Currently exploring **Azure, Generative AI, and ERP SaaS solutions**
+- 💳 Experienced in **payment gateways, microservices, cloud automation, and CI/CD**
+- 🎓 MSc in Advanced Computer Science (Distinction) from **Bangor University**
+- 📫 Reach me at **sidhantlohana@outlook.com**
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/siddahantkumar)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddahantkumar&show_icons=true&locale=en" alt="siddahantkumar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddahantkumar&" alt="siddahantkumar" /></p>
+### ⚡ Featured Projects
+- **AI Summarization Tool (MSc Dissertation)**  
+  NLP pipeline for political tweet summarization to improve social media insights.  
+  *Tech: Python, Transformers, NLP, Data Analysis*
+
+- **De Rouze ERP SaaS**  
+  Multi-tenant ERP system with Azure Functions and Power BI integration for auto dealers in the US.  
+  *Tech: .NET Core, Azure Functions, Angular, Power BI*
+
+- **Payment Gateway Security Module**  
+  Implemented **3-D Secure 2.0, Apple Pay, Samsung Pay, VISA, MasterCard, AMEX** to boost transaction security and reduce fraud.  
+  *Tech: C#, .NET Core, Microservices, Oracle, ISO-8583*
+
+---
+
+### 🛠️ Tech Stack
+**Languages & Frameworks**  
+C#, .NET 8, ASP.NET Core, Angular 16, TailwindCSS, JavaScript, Python, C++, Entity Framework, Dapper  
+
+**Cloud & DevOps**  
+Azure (Functions, Service Bus, Blob Storage, Redis Cache, Key Vault), AWS (EC2, Lambda), Azure DevOps, CI/CD Pipelines  
+
+**Databases**  
+SQL Server, Oracle, PostgreSQL, MySQL, MongoDB  
+
+**Tools & Others**  
+RabbitMQ, Power BI, Git, Bitbucket, Swagger, Postman, Selenium, SoapUI  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddahantkumar&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddahantkumar&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
+</p>
+
+---
+
+### 🎯 Mission
+> To engineer secure and impactful digital solutions in **FinTech and ERP** using Microsoft technologies, and grow towards a **Solution Architect / C-level career path**.
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/siddahantkumar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:sidhantlohana@outlook.com" target="blank"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+<a href="https://github.com/siddahantKumar" target="blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+</p>
