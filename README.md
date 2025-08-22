@@ -56,6 +56,7 @@ RabbitMQ, Power BI, Git, Bitbucket, Swagger, Postman, Selenium, SoapUI
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddahantkumar&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddahantkumar&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
